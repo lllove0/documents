@@ -10,3 +10,12 @@
   - [Angular 最佳实践](./02-Angular/angular-best-practice.md)
 * [03-Webpack](./03-Webpack)
   - [Webpack 学习路径](./03-Webpack/webpack-study-line.md)
+* [04-个人分享PPT](./04-PPT)
+  - [讲不完的 ESX](./04-PPT/ES6:ES7:ES8-Feature.pdf)
+  - [Git 新手指南](./04-PPT/Git 新手指南.pdf)
+  - [Vue ssr](./04-PPT/vue ssr.pdf)
+* [05-cors 跨域处理](./05-cors)
+  - [ajax-with-cors](./05-cors/ajax-with-cors.md)
+
+
+
